@@ -1,4 +1,4 @@
-# demo-app
+# demo-app Jorge De Lara Hernandez
 
 ## Project setup
 ```
